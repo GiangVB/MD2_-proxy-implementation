@@ -1,0 +1,1 @@
+# Thực hành Java triển khai Proxy Design Pattern #
